@@ -1,2 +1,2 @@
 # Mario-World-JSON
-Pitting Mario characters against each other using JavaScript and JSON.
+Pitting Mario characters against each other using JavaScript, JSON, jQuery.
